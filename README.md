@@ -1,4 +1,3 @@
-# spotify-tableau-project
 # Spotify Tableau Project: Revenue, Costs, and User Growth Analysis
 
 ## 📦 Description
@@ -35,17 +34,6 @@ spotify-tableau-project/
 └── Report.pdf                 # Final report with key insights
 ```
 
----
-
-## 🚀 How to Use
-
-1. Clone the repo: `git clone https://github.com/your-username/spotify-tableau-project`
-2. Open `.twbx` files in Tableau Desktop or Tableau Public
-3. Review insights and compare revenue/cost trends
-4. Read the final report for findings & recommendations
-
----
-
 ## 📊 Project Summary
 
 This project simulates a Spotify BI analyst sprint. Based on 17 key metrics from 2017–2023, dashboards were built for three internal stakeholders:
@@ -60,19 +48,7 @@ The dashboards are designed to be interactive, business-focused, and presentatio
 
 ## 🔗 Live Tableau Preview (optional)
 
-> Add Tableau Public links here if published
-
----
-
-## 🧠 Author
-
-[Your Name] – Data & Marketing Analyst | Portfolio: [yourwebsite.com] | LinkedIn: [linkedin.com/in/yourname]
-
----
-
-## 📌 License
-
-This project is for educational and portfolio purposes only.
+...will be added soon
 
 ---
 
@@ -153,7 +129,7 @@ The dataset includes 17+ columns such as:
 
 ---
 
-## 📚 Final Report (Recommendations & Insights)
+## 📚 Final Report 
 
 - **Revenue** is steadily growing with temporary drops likely caused by seasonality or global events.
 - **ARPU** remains relatively stable with slight upward trend.
@@ -163,11 +139,4 @@ The dataset includes 17+ columns such as:
 
 ---
 
-## 📌 Next Steps
-
-- Upload Tableau `.twbx` dashboards
-- Add README with project summary, KPIs, and findings
-- Export final report as PDF and include screenshots
-
-Let me know when you’re ready to build the README or need help uploading to GitHub!
 
