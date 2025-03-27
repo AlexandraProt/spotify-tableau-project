@@ -87,7 +87,7 @@ The dataset includes 17+ columns such as:
 
 ## Data Preparation
 
-### Employee Data (`New coloumns Spotify Project `)   
+### Spotify Project Data (`New coloumns Spotify Project `)   
 📥 [Download cleaned CSV]([New coloumns Spotify Project .xlsx)](https://github.com/AlexandraProt/spotify-tableau-project/blob/main/New%20coloumns%20Spotify%20Project%20.xlsx)
 
 2. **Define Stakeholder Goals**
