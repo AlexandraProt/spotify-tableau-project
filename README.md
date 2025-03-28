@@ -163,14 +163,41 @@ Focus: Operational cost breakdown, departmental spending, and margin efficiency.
 
 ---
 
-## 📚 Final Report 
+### 📊 Final Dashboards
 
-- **Revenue** is steadily growing with temporary drops likely caused by seasonality or global events.
-- **ARPU** remains relatively stable with slight upward trend.
-- **Premium segment** is more profitable than Ad-based.
-- **Marketing costs** appear to grow — consider A/B testing and channel attribution for efficiency.
-- **Growth in Premium MAU share** indicates strong user retention.
+Each dashboard below is designed for a specific stakeholder at Spotify and summarizes key insights using visual data from 2017 to 2023.
 
 ---
 
+#### 👨‍💼 Dashboard 1: Revenue & Profit Overview  
+**Stakeholder:** Mark – *Focused on revenue performance, monetization models, and profit trends.*
 
+![Revenue Dashboard](./dashboard_1_revenue_mark.png)
+
+- Tracks **quarterly revenue trends**
+- Compares **Premium vs Ad revenue**
+- Highlights **average gross margin by quarter**
+
+---
+
+#### 👩‍💼 Dashboard 2: User Growth & Segmentation  
+**Stakeholder:** Sarah – *Focused on user acquisition, growth segmentation, and monetization potential.*
+
+![User Growth Dashboard](./dashboard_2_users_sarah.png)
+
+- Shows **total MAUs, Premium, and Ad-based users**
+- Visualizes **user type share** over time
+- Tracks **Premium ARPU** trend per quarter
+
+---
+
+#### 🛠 Dashboard 3: Cost & Efficiency  
+**Stakeholder:** Olivia – *Focused on operational costs, departmental efficiency, and profitability.*
+
+![Cost Efficiency Dashboard](./dashboard_3_costs_olivia.png)
+
+- Breaks down **Sales, R&D, and Admin costs**
+- Compares **cost distribution and share per quarter**
+- Analyzes **gross margin by segment (Premium vs Ad)**
+
+---
