@@ -144,9 +144,9 @@ Focus: User acquisition, segmentation by subscription type, and monetization.
 
 | Chart | Description |
 |-------|-------------|
-| ![03_user_growth](./Screenshots/03_user_growth.png) | **User Growth Over Time** – Shows growth of total MAUs, Premium MAUs, and Ad MAUs. |
-| ![04_mau_share_area_chart](./Screenshots/04_mau_share_area_chart.png) | **MAU Share (Stacked Area Chart)** – Visualizes Premium vs Ad user share per quarter. |
-| ![05_arpu_trend](./Screenshots/05_arpu_trend.png) | **Premium ARPU Trend** – Tracks average revenue per Premium user over time. |
+| ![03_user_growth](./03_user_growth.png) | **User Growth Over Time** – Shows growth of total MAUs, Premium MAUs, and Ad MAUs. |
+| ![04_mau_share_area_chart](./04_mau_share_area_chart.png) | **MAU Share (Stacked Area Chart)** – Visualizes Premium vs Ad user share per quarter. |
+| ![05_arpu_trend](./05_arpu_trend.png) | **Premium ARPU Trend** – Tracks average revenue per Premium user over time. |
 
 ---
 
@@ -156,10 +156,10 @@ Focus: Operational cost breakdown, departmental spending, and margin efficiency.
 
 | Chart | Description |
 |-------|-------------|
-| ![06_cost_structure_bar](./Screenshots/06_cost_structure_bar.png) | **Cost % of Revenue (Bar Chart)** – Tracks spending in Sales, R&D, and Admin as a share of revenue. |
-| ![07_cost_donut_chart](./Screenshots/07_cost_donut_chart.png) | **Cost Distribution (Donut Chart)** – Visual comparison of Sales, R&D, and Admin costs. |
-| ![08_margin_trend_premium_ad](./Screenshots/08_margin_trend_premium_ad.png) | **Gross Margin: Premium vs Ad** – Tracks profitability by revenue stream over time. |
-| ![11_cost_breakdown_quarters](./Screenshots/11_cost_breakdown_quarters.png) | **Cost Breakdown by Quarter** – Compares how costs shift between Q1, Q2, Q3, and Q4. |
+| ![06_cost_structure_bar](./06_cost_structure_bar.png) | **Cost % of Revenue (Bar Chart)** – Tracks spending in Sales, R&D, and Admin as a share of revenue. |
+| ![07_cost_donut_chart](./07_cost_donut_chart.png) | **Cost Distribution (Donut Chart)** – Visual comparison of Sales, R&D, and Admin costs. |
+| ![08_margin_trend_premium_ad](./08_margin_trend_premium_ad.png) | **Gross Margin: Premium vs Ad** – Tracks profitability by revenue stream over time. |
+| ![11_cost_breakdown_quarters](./11_cost_breakdown_quarters.png) | **Cost Breakdown by Quarter** – Compares how costs shift between Q1, Q2, Q3, and Q4. |
 
 ---
 
