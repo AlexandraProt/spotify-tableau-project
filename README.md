@@ -129,12 +129,16 @@ This project includes three dashboards analyzing Spotify's business performance 
 
 Focus: Revenue growth trends, premium vs ad monetization, and profitability over time.
 
+#### ✅ Dashboard 1: Revenue & Profit Overview
+
+Focus: Revenue growth trends, premium vs ad monetization, and profitability over time.
+
 | Chart | Description |
 |-------|-------------|
-| ![01_total_revenue_trend](./Screenshots/01_total_revenue_trend.png) | **Total Revenue over Time (Yearly)** – Displays annual growth of total revenue from 2017 to 2023. |
-| ![02_quarterly_revenue_trend](./Screenshots/02_quarterly_revenue_trend.png) | **Total Revenue by Quarter** – Compares revenue performance across Q1–Q4. |
-| ![09_gross_margin_over_quarter](./Screenshots/09_gross_margin_over_quarter.png) | **Total Gross Margin by Quarter** – Highlights average gross margin fluctuations per quarter. |
-| ![10_revenue_dual_axis](./Screenshots/10_revenue_dual_axis.png) | **Premium Revenue vs Ad Revenue (Dual-Axis)** – Compares revenue streams side-by-side across all quarters. |
+| ![01_total_revenue_trend](./01_total_revenue_trend.png) | **Total Revenue over Time (Yearly)** – Displays annual growth of total revenue from 2017 to 2023. |
+| ![02_quarterly_revenue_trend](./02_quarterly_revenue_trend.png) | **Total Revenue by Quarter** – Compares revenue performance across Q1–Q4. |
+| ![03_gross_margin_per_quarter](./03_gross_margin_per_quarter.png) | **Total Gross Margin by Quarter** – Highlights average gross margin fluctuations per quarter. |
+| ![04_dual_axis_premium_vs_ad](./04_dual_axis_premium_vs_ad.png) | **Premium Revenue vs Ad Revenue (Dual-Axis)** – Compares revenue streams side-by-side across all quarters. |
 
 ---
 
@@ -144,9 +148,9 @@ Focus: User acquisition, segmentation by subscription type, and monetization.
 
 | Chart | Description |
 |-------|-------------|
-| ![03_user_growth](./03_user_growth.png) | **User Growth Over Time** – Shows growth of total MAUs, Premium MAUs, and Ad MAUs. |
-| ![04_mau_share_area_chart](./04_mau_share_area_chart.png) | **MAU Share (Stacked Area Chart)** – Visualizes Premium vs Ad user share per quarter. |
-| ![05_arpu_trend](./05_arpu_trend.png) | **Premium ARPU Trend** – Tracks average revenue per Premium user over time. |
+| ![05_user_growth](./05_user_growth.png) | **User Growth Over Time** – Shows growth of total MAUs, Premium MAUs, and Ad MAUs. |
+| ![06_mau_share_stacked](./06_mau_share_stacked.png) | **MAU Share (Stacked Area Chart)** – Visualizes Premium vs Ad user share per quarter. |
+| ![07_premium_arpu](./07_premium_arpu.png) | **Premium ARPU Trend** – Tracks average revenue per Premium user over time. |
 
 ---
 
@@ -156,9 +160,9 @@ Focus: Operational cost breakdown, departmental spending, and margin efficiency.
 
 | Chart | Description |
 |-------|-------------|
-| ![06_cost_structure_bar](./06_cost_structure_bar.png) | **Cost % of Revenue (Bar Chart)** – Tracks spending in Sales, R&D, and Admin as a share of revenue. |
-| ![07_cost_donut_chart](./07_cost_donut_chart.png) | **Cost Distribution (Donut Chart)** – Visual comparison of Sales, R&D, and Admin costs. |
-| ![08_margin_trend_premium_ad](./08_margin_trend_premium_ad.png) | **Gross Margin: Premium vs Ad** – Tracks profitability by revenue stream over time. |
+| ![08_cost_breakdown_bar](./08_cost_breakdown_bar.png) | **Cost % of Revenue (Bar Chart)** – Tracks spending in Sales, R&D, and Admin as a share of revenue. |
+| ![09_cost_donut_chart](./09_cost_donut_chart.png) | **Cost Distribution (Donut Chart)** – Visual comparison of Sales, R&D, and Admin costs. |
+| ![10_premium_ad_gross_margin](./10_premium_ad_gross_margin.png) | **Gross Margin: Premium vs Ad** – Tracks profitability by revenue stream over time. |
 | ![11_cost_breakdown_quarters](./11_cost_breakdown_quarters.png) | **Cost Breakdown by Quarter** – Compares how costs shift between Q1, Q2, Q3, and Q4. |
 
 ---
