@@ -129,10 +129,6 @@ This project includes three dashboards analyzing Spotify's business performance 
 
 Focus: Revenue growth trends, premium vs ad monetization, and profitability over time.
 
-#### ✅ Dashboard 1: Revenue & Profit Overview
-
-Focus: Revenue growth trends, premium vs ad monetization, and profitability over time.
-
 | Chart | Description |
 |-------|-------------|
 | ![01_total_revenue_trend](./01_total_revenue_trend.png) | **Total Revenue over Time (Yearly)** – Displays annual growth of total revenue from 2017 to 2023. |
