@@ -223,6 +223,3 @@ This analysis of Spotify’s business performance from 2017 to 2023 reveals key 
 5. **Prioritize High-Margin Segments**: Focus on Premium segment profitability while keeping an eye on scalable Ad revenue opportunities.
 
 ---
-
-
-Если хочешь, можно сделать это ещё короче, добавить иконки или визуально структурировать. Или наоборот — расписать более глубоко под каждого стейкхолдера. Как тебе такой стиль?
