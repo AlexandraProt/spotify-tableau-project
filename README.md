@@ -46,9 +46,10 @@ The dashboards are designed to be interactive, business-focused, and presentatio
 
 ---
 
-## 🔗 Live Tableau Preview (optional)
+## 🔗 Live Tableau Preview
 
-...will be added soon
+[View the dashboard on Tableau Public](https://public.tableau.com/views/SpotifyMiniProject/Dashboard1RevenueProfitOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ---
 
